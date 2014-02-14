@@ -1,4 +1,5 @@
 # Real Time Drawing
+# Real Time control of ws2801 lights
 
 This is the sample application for the 12 devs of xmas tutorial, find the tutorial over at:  [http://www.12devsofxmas.co.uk/](http://www.12devsofxmas.co.uk/)
 
@@ -16,6 +17,7 @@ Run the following in terminal
 	cd 12devsNodeJsDraw
 	npm install
 	node app.js
+This is culled from for the 12 devs of xmas tutorial, find the tutorial over at:  [http://www.12devsofxmas.co.uk/](http://www.12devsofxmas.co.uk/)
 
 Now browse to http://127.0.0.1:3000/.  Happy drawing!
 
